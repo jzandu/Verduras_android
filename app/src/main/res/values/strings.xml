@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Verduras_android</string>
+    <string name="titulo">Proyecto Verduras</string>
+    <string name="todo">TODO</string>
+</resources>
